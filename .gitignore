@@ -1,0 +1,21 @@
+# .gitignore
+
+# typical clojure files
+*.jar
+*.js
+*.class
+/pom.xml
+/pom.xml.asc
+/lib
+/classes
+/out
+/target
+/.lein-*
+/.nrepl-port
+
+# emacs backup files
+*~
+
+# silly Mac filesystem
+*.DS_Store*
+*._*
