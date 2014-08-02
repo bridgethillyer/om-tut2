@@ -14,13 +14,19 @@ updated with the following changes:
 ## Running
 
 Download the React javascript library:
-    wget http://fb.me/react-0.11.1.js
+```
+wget http://fb.me/react-0.11.1.js
+```
 
 Have [Leiningen](https://github.com/technomancy/leiningen) auto build ClojureScript sources:
-    lein cljsbuild auto om-tut2
+```
+lein cljsbuild auto om-tut2
+```
 
 Open ```index.html``` in your favorite browser:
-    open index.html
+```
+open index.html
+```
 
 ## References
 
