@@ -2,8 +2,8 @@
 
 Almost Intermediate Om Tutorial updated for Om 0.7.0
 
-This repo is simply a reprise of the Basic Om tutorial
-updated with the following changes:
+This repo is simply a reprise of the [Basic Om tutorial](https://github.com/swannodette/om/wiki/Basic-Tutorial) updated with the following changes:
+
 * The ```editable``` Om component has been modified to handle
   classes as cursors (and avoid the IClonable hacks).
 * The ```index.html``` has been modified to specify the document type,
